@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-THEME = "/home/estuardolh/pelican-themes/taman/"
+THEME = "/home/estuardolh/pelican-themes/tam/"
 
 AUTHOR = u'Estuardo López'
 SITENAME = u'Estuardo info'
