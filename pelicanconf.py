@@ -27,7 +27,7 @@ LINKS = (('', ''),)
 SECTIONS = (('🏡','https://estuardo.info')
   ,('Resume', '/resume.pdf')
   , ('Repos', 'https://github.com/estuardolh')
-  , ('Bio', '/bio'),)
+  ,)
 # Social widget
 SOCIAL = ((),)
 
