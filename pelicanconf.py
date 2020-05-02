@@ -6,19 +6,17 @@ THEME = "/home/estuardolh/pelican-themes/tam/"
 
 AUTHOR = u'Estuardo López'
 SITENAME = u'Estuardo info'
-SITEURL = ''
+SITEURL = 'estuardo.info'
 DESCRIPTION = u'Estuardo López'
 PATH = 'content'
-DATE_FORMATS = {
-    'en': '%a, %d %b %Y',
-    'jp': '%Y-%m-%d(%a)',
-}
-LOCALE = ('usa', 'jpn',  # On Windows
-    'en_US', 'ja_JP'     # On Unix/Linux
-    )
+#DATE_FORMATS = {
+#    'en': '%a, %d %b %Y',
+#}
+#LOCALE = ('en_US.UTF-8'
+#    )
 
 
-TIMEZONE = 'America/Phoenix'
+TIMEZONE = 'America/Guatemala'
 
 DEFAULT_LANG = u'en'
 BIO = u'<h3>ESTUARDO LÓPEZ</h3><p>Engineering student and programming lover.</p>'
@@ -30,7 +28,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('', ''),)
-SECTIONS = (('🏡','https://estuardo.info')
+SECTIONS = (('Home','https://estuardo.info')
   , ('Repos', 'https://github.com/estuardolh')
   , ('Resume', '/resume.pdf')
   ,)
@@ -40,4 +38,4 @@ SOCIAL = ((),)
 DEFAULT_PAGINATION = 6
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True

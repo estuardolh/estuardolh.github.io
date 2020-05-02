@@ -6,7 +6,7 @@ THE YEAR.
 
 The Work Day at the country i am currently living.  I am feeling creative.
 
-I don't want mention about the current situation but... i am thankful about i am employed at today.  I think it will so on... but always there are some uncertainty.
+I dont want mention about the current situation but... i am thankful about i am employed at today.  I think it will so on... but always there are some uncertainty.
 
 Since some weeks i decided to make for me a new site, a personal site about projects, ideas, and things i want to show to everybody.
 
