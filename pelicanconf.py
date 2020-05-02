@@ -9,12 +9,18 @@ SITENAME = u'Estuardo info'
 SITEURL = ''
 DESCRIPTION = u'Estuardo López'
 PATH = 'content'
+DATE_FORMATS = {
+    'en': '%a, %d %b %Y',
+    'jp': '%Y-%m-%d(%a)',
+}
+LOCALE = ('usa', 'jpn',  # On Windows
+    'en_US', 'ja_JP'     # On Unix/Linux
+    )
 
-TIMEZONE = 'America/Guatemala'
+
+TIMEZONE = 'America/Phoenix'
 
 DEFAULT_LANG = u'en'
-#A programming lover.
-# Feed generation is usually not desired when developing
 BIO = u'<h3>ESTUARDO LÓPEZ</h3><p>Engineering student and programming lover.</p>'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -25,8 +31,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('', ''),)
 SECTIONS = (('🏡','https://estuardo.info')
-  ,('Resume', '/resume.pdf')
   , ('Repos', 'https://github.com/estuardolh')
+  , ('Resume', '/resume.pdf')
   ,)
 # Social widget
 SOCIAL = ((),)
