@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Estuardo info - Blog</title><link href="estuardo.info/" rel="alternate"></link><link href="estuardo.info/feeds/blog.atom.xml" rel="self"></link><id>estuardo.info/</id><updated>2020-05-01T12:57:00-06:00</updated><entry><title>New personal site</title><link href="estuardo.info/new-personal-site.html" rel="alternate"></link><published>2020-05-01T12:57:00-06:00</published><updated>2020-05-01T12:57:00-06:00</updated><author><name>Estuardo López</name></author><id>tag:None,2020-05-01:estuardo.info/new-personal-site.html</id><summary type="html">&lt;p&gt;THE YEAR.&lt;/p&gt;
+&lt;p&gt;The Work Day at the country i am currently living.  I am feeling creative.&lt;/p&gt;
+&lt;p&gt;I dont want mention about the current situation but... i am thankful about i am employed at today.  I think it will so on... but always there are some uncertainty.&lt;/p&gt;
+&lt;p&gt;Since some weeks i …&lt;/p&gt;</summary><content type="html">&lt;p&gt;THE YEAR.&lt;/p&gt;
+&lt;p&gt;The Work Day at the country i am currently living.  I am feeling creative.&lt;/p&gt;
+&lt;p&gt;I dont want mention about the current situation but... i am thankful about i am employed at today.  I think it will so on... but always there are some uncertainty.&lt;/p&gt;
+&lt;p&gt;Since some weeks i decided to make for me a new site, a personal site about projects, ideas, and things i want to show to everybody.&lt;/p&gt;
+&lt;p&gt;About the implementation of this blog, i have used Pelican(written in Python) as Static Site Generator. It has RSS! So this is great.  The theme was something dificult to decide, there are some themes available but always there is a detail to treat.&lt;/p&gt;
+&lt;p&gt;I am always seeking for new projects.  Please, feel free to message me at &lt;code&gt;estuardolh[at]gmail{dot}com&lt;/code&gt; or check out my resume &lt;a href="/resume.pdf"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So, without waiting i give you the welcome to my site estuardo.info.  &lt;/p&gt;
+&lt;p&gt;Greetings from Guatemala.&lt;/p&gt;</content><category term="Blog"></category></entry></feed>
