@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<div id="home">
+  <nav style="align:left;"><h2>{% for title, link in SECTIONS %}
+      &emsp; <a style="text-decoration:none;" href="{{ link }}">{{ title }}</a>
+      {% endfor %}</h2>
+  </nav>
+  </br>
+  <ul class="posts">
+    {% for article in articles %}
+    <li>
+      <span>{{ article.date|strftime('%d %B %Y') }} &raquo;</span>
+      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}
