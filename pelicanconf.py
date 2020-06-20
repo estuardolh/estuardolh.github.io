@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import mdx_include
 
 THEME = "./themes/tam/"
 
@@ -15,6 +16,10 @@ PATH = 'content'
 #LOCALE = ('en_US.UTF-8'
 #    )
 
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = [
+           'mdx_include'
+          ]
 
 TIMEZONE = 'America/Guatemala'
 
